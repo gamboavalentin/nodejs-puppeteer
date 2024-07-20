@@ -1,7 +1,4 @@
-FROM node:20.12.1-slim
-
-# We don't need the standalone Chromium
-ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
+FROM node:22.5.1-slim
 
 # Install Google Chrome Stable and fonts
 # Note: this installs the necessary libs to make the browser work with Puppeteer.
