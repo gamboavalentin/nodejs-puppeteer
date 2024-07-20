@@ -1,7 +1,7 @@
-# AeroFuego-ScraperBot
+# NodeJs Puppeteer
 
 <div align="center">
-  <img width="200" height="200"
+  <img width="200"
     src="/assets/Logo.png">
 </div>
 
